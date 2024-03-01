@@ -9,4 +9,4 @@ Reuirements to run this project:
 3. Apache PHP MySQL
 4. Web Browser
 
-[Detailed Report] (https://github.com/Harshad165/Deepak-deepot-book-barn/blob/master/IWP%20project%20report.pdf)
+[Detailed Report](https://github.com/Harshad165/Deepak-deepot-book-barn/blob/master/IWP%20project%20report.pdf)
